@@ -3,7 +3,7 @@ Contains course assignments for training deep neural networks in Tensorflow.
 
 This project consists of several assignments completed for the [Udacity Deep Learning Course](https://www.udacity.com/course/deep-learning--ud730). The assignments are written in IPython notebooks, and involve Python implementations using the Tensorflow library to **prepare datasets, build and train fully connected and convolutional networks, and apply techniques such as regularization and dropout to optimize networks.** 
 
-These assignments developed my hands-on experience in file parsing and handling, linear algebra and matrix operations, deep learning theory, and the application of neural networks with relation to computational limits.
+This project developed my hands-on experience in file parsing and handling, linear algebra and matrix operations, deep learning theory, and the application of neural networks in Python.
 
 Each assignment is organized by topic:
 * [Dataset preperation](#dataset-preperation) (1_notmnist.ipynb)
@@ -25,4 +25,4 @@ Involves building the architecture of a simple neural network. Though simple, th
 In this assignment I add regularization techniques to the fully connected neural network. Applying regularization techniques prevents overfitting, in which a neural network recognizes the training set too well and fails to classify different examples. 
 
 ## Convolutional Neural Networks
-In this assignment, I replace the fully connected neural network from previous implementations with a new architecture known as a convolutional neural network. This architecture makes use of parameter sharing, meaning that inputs are trained on the same weights. This allows for drastically less parameters and thus requires less memory and computation time while also increasing accuracy when generalizing to new examples. 
+I replace the fully connected neural network from previous implementations with a new architecture known as a convolutional neural network. This architecture makes use of parameter sharing, meaning that inputs are trained on the same weights. This allows for drastically less parameters and thus requires less memory and computation time while also increasing accuracy when generalizing to new examples. 
