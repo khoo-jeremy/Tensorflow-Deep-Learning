@@ -6,10 +6,10 @@ This project consists of several assignments completed for the [Udacity Deep Lea
 This project developed my hands-on experience in file parsing and handling, linear algebra and matrix operations, deep learning theory, and the application of neural networks in Python.
 
 Each assignment is organized by topic:
-* [Dataset preperation](#dataset-preperation) (1_notmnist.ipynb)
-* [Fully connected neural networks](#fully-connected-neural-networks) (2_fullyconnected.ipynb)
-* [Regularization](#regularization) (3_regularization.ipynb)
-* [Convolutional neural networks](#convolutional-neural-networks) (4_convolutions.ipynb)
+* [Dataset preperation](#dataset-preperation) .................................(1_notmnist.ipynb)
+* [Fully connected neural networks](#fully-connected-neural-networks) .........(2_fullyconnected.ipynb)
+* [Regularization](#regularization) ...........................................(3_regularization.ipynb)
+* [Convolutional neural networks](#convolutional-neural-networks) .............(4_convolutions.ipynb)
 
 ## Dataset preperation
 In this assignment, I download and sort the notMNIST dataset, which consists of handwritten letters from A-J with ~50,000 samples for each letter. The dataset is then compressed for storage and easy withdrawal for future tasks. Shown below are some samples images of the data:
